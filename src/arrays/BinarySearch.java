@@ -7,7 +7,7 @@ public class BinarySearch {
 		// Once is sorted, we will have to divide the array in half n times
 		// Discarding the half that doesn't include the objective
 		
-		int[] x = WaysOfCreatingAnArray.arr3; // { 1, 2, 3, 4, 5 }
+		int[] x = OneDArrays.arr3; // { 1, 2, 3, 4, 5 }
 		
 		// We'll need to declare a low, mid and high index
 		int lowIndex = 0;

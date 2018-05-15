@@ -1,6 +1,6 @@
 package arrays;
 
-public class WaysOfCreatingAnArray {
+public class OneDArrays {
 
 	// Three ways of creating arrays
 	// 1

@@ -1,6 +1,6 @@
 package arrays;
 
-public class BidimensionalArrays {
+public class TwoDArrays {
 
 	// 3 ways of creating a bidimensional array
 	// 1
